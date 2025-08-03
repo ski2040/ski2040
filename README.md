@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ski2040
-- 👀 I’m interested in ai
-- 🌱 I’m currently implementing RAG
-- 💞️ I’m working on fine-tuning
+- 👀 I’m focused on GenAI and ML modeling
+- 🌱 I’m currently implementing AI Agents, RAG, Structured output workflows, Multi-Agent systems at scale ...
 
 <!---
 ski2040/ski2040 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
